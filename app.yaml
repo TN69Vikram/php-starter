@@ -1,0 +1,8 @@
+domains:
+- php-starter-TN69Vikram.wasmer.app
+kind: wasmer.io/App.v0
+name: maniraj30001921-php-starter
+owner: maniraj30001921
+package: .
+scaling:
+  mode: single_concurrency
